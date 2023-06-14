@@ -36,6 +36,13 @@ text-align: center;
 font-size: 30px;
   color:#ffff
 }
+h6{
+text-align: left;
+font-size: 25px;
+padding-top: 30px;
+padding-left: 30px;
+  color:#a18aeb
+}
 .leftimg {
     float:left; /* Выравнивание по левому краю */
     margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
@@ -52,6 +59,7 @@ h1{
 font-size: 19px;
 padding-top: 30px;
 padding-left: 15px;
+padding-right: 50px;
   color:#ffff
 }
 li{
